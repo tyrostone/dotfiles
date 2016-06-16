@@ -9,13 +9,14 @@ apps=(
   dash
   flux
   google-chrome
-  intellij
+  intellij-idea
   macdown
   rubymine
   slack
   spotify
-  sublime-text3
+  sublime-text
   virtualbox
+  virtualbox-extension-pack
   vlc
 )
 
